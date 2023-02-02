@@ -1,7 +1,7 @@
 ### Hi there 👋
-<!-- [![pq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianphong&show_icons=true)](https://github.com/qianphong)-->
+[![pq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianphong&show_icons=true)](https://github.com/qianphong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianphong&hide=scss,less,css,html&layout=compact)](https://github.com/qianphong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianphong&hide=scss,less,css,html)](https://github.com/qianphong)
 
 
 <!--
